@@ -59,6 +59,10 @@ Download the latest Java Archive file:
 
 [Download](https://gitreleases.dev/gh/DaveJarvis/kmcaster/latest/kmcaster.jar)
 
+Linux easy installation:
+
+[![Download On Flathub](https://flathub.org/assets/badges/flathub-badge-en.png)](https://flathub.org/apps/details/com.whitemagicsoftware.kmcaster)
+
 # Running
 
 After installing Java, run the program as follows:
